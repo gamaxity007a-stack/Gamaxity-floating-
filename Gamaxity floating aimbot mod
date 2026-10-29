@@ -1,0 +1,14 @@
+Gamaxity-floating-
+├── .github/
+│   └── workflows/
+│       └── android.yml
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/
+│           └── res/
+├── gradlew
+├── build.gradle
+└── settings.gradle
